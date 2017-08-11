@@ -21,4 +21,6 @@ README como responsável pela tradução do mesmo.
 
 [05-repositories.md](https://github.com/composer/composer/blob/master/doc/05-repositories.md) ->  [Alfredo](https://github.com/alphabraga) `em tradução`
 
-[06-community.md](https://github.com/composer/composer/blob/master/doc/06-community.md)
+[06-config.md](https://github.com/composer/composer/blob/master/doc/06-config.md)
+
+[07-community.md](https://github.com/composer/composer/blob/master/doc/07-community.md)
